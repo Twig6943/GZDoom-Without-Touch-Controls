@@ -1,5 +1,5 @@
 # GZDoom-Without-Touch-Controls
-![1c150c70579a81b2b641b4a98de07cf6](https://user-images.githubusercontent.com/119701717/227717815-2fa214e1-464d-49ee-9d8c-bca482255678.png)
+![GZDOOM](https://user-images.githubusercontent.com/119701717/227718309-3ddced95-b1f6-4e9a-b4f8-fc84c623c8ab.png)
 A Mod to the GZDoom mobile apk to remove the touch controls.
 (Use this apk if you're gonna use a keyboard to play with)
 (The GZDoom Mobile repository can be found here if you need it https://github.com/nvllsvm/GZDoom-Android/releases)
